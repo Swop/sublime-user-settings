@@ -1,6 +1,9 @@
 {
-    "font_size": 10.0,
+    "font_size": 8,
+    "dictionary": "Packages/Language - English/en_US.dic",
+    "font_face": "Source Code  Pro",
     "ignored_packages": [],
     "theme": "Soda Dark.sublime-theme",
-    "rulers": [80, 120]
+    "rulers": [80, 120],
+    "translate_tabs_to_spaces": true
 }
