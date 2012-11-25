@@ -1,9 +1,14 @@
 {
-    "font_size": 8,
+    "font_size": 11,
     "dictionary": "Packages/Language - English/en_US.dic",
     "font_face": "Source Code  Pro",
     "ignored_packages": [],
     "theme": "Soda Dark.sublime-theme",
     "rulers": [80, 120],
-    "translate_tabs_to_spaces": true
+    "translate_tabs_to_spaces": true,
+    "bold_folder_labels": true,
+    "caret_style": "phase",
+    "highlight_line": true,
+    "trim_trailing_white_space_on_save": true,
+    "scroll_past_end": true
 }
